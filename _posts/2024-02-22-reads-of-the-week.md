@@ -1,7 +1,7 @@
 ---
 published: true
 date: 2024-02-22
-title: Reads of the Week
+title: "Reads of the Week #1"
 ---
 I try to get some reads of the week to be updated. I hope you like them.
 
